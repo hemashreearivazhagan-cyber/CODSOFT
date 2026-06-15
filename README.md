@@ -1,2 +1,2 @@
 # CODSOFT
-Moive genre classification
+MP project
